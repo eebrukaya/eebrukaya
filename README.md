@@ -1,4 +1,4 @@
-<!--<img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" align="right" width="300" height="300">-->
+<img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" align="right" width="300" height="300">
 
 
 ### Hi there, I'm Ebru 👋 
@@ -15,8 +15,7 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" width="18" height="18"/>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/maven/maven.png" width="18" height="18"/>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" width="18" height="18"/>
-</br>
-</br>
+
 
 ## I'm learning
 
