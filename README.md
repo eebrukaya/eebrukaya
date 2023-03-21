@@ -2,7 +2,7 @@
 
 
 ### Hi there, I'm Ebru 👋 
-# Java Backend Developer
+# Java Developer
 
 
 <font color="white" bold="true" size=20>Is Java a coffee? :flushed: </code></font>
